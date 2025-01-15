@@ -2,7 +2,7 @@
 
 Code of the method Transductive Conformal Prediction for Ranking (TCPR) used in :
 
-[Transductive Conformal Prediction for Ranking (TCPR) - preprint.](????) by Jean-Baptise Fermanian, Pierre Humbert, and Gilles Blanchard.
+[Transductive Conformal Inference for Ranking - preprint.](????) by Jean-Baptise Fermanian, Pierre Humbert, and Gilles Blanchard.
 
 ## Container
 
